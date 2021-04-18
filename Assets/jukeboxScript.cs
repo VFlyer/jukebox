@@ -294,7 +294,7 @@ public class jukeboxScript : MonoBehaviour
             		return;
 						}
         }
-				Audio.PlaySoundAtTransform(correctAudio, transform);
+				//Audio.PlaySoundAtTransform(correctAudio, transform);
 				Debug.LogFormat("[The Jukebox #{0}] You pressed {1}, {2}, {3}. Module disarmed.", moduleId, chosenLyrics[0], chosenLyrics[1], chosenLyrics[2]);
         GetComponent<KMBombModule>().HandlePass();
 		}

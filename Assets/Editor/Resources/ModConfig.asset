@@ -11,20 +11,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: jukebox
-  title: The Jukebox
-  description: 'The Jukebox 1.12
-
-    P-A-R-T-Why? Because if you don''t, we''re going to explode.
-
-
-    Module ID: jukebox
+  id: jukeboxModified
+  title: The Jukeboxes Except The Tracks Are Missing
+  author: Royal_Flu$h, VFlyer
+  description: '[s]P-A-R-T-Why? Because if you don''t, we''re going to explode. Also,
+    what goes ho-ho-ho-BOOM?[/s] Who stole all of the tracks again!? I swear someone
+    really wants us bankrupt.
 
 
-    Created by: Royal_Flu$h
+    Contains The Jukebos and The Festive Jukebox but with missing tracks (when the
+    module is solved)
 
 
-    Manual available here: https://ktane.timwi.de/HTML/The%20Jukebox.html'
+    [b]This is a modification to the original modules reuploaded for safely uploading
+    YouTube content: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1279042705]The
+    Jukebox[/url]
+
+    [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1279042705]The Festive
+    Jukebox[/url]
+
+    [/b]
+
+
+    Module IDs: jukebox, festiveJukebox
+
+
+    Original Versions Created by: Royal_Flu$h
+
+    Streamer Friendly Version Uploaded by VFlyer
+
+
+    Manuals available here: https://ktane.timwi.de/HTML/The%20Jukebox.html
+
+    https://ktane.timwi.de/HTML/The%20Festive%20Jukebox.html'
   version: 1.12
   outputFolder: build
   previewImage: {fileID: 2800000, guid: e73ae5987f30c40a08ff56094db49496, type: 3}
