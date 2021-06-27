@@ -516,7 +516,7 @@ public class jukeboxScript : MonoBehaviour
 				lyricOptions.Add("Hear");
 				lyricOptions.Add("People");
 				lyricOptions.Add("Sing");
-				lyricOptions.Add("Songs");
+				lyricOptions.Add("Song");
 				lyricOptions.Add("Men");
 				lyricOptions.Add("Music");
 				lyricOptions.Add("Will");
