@@ -23,14 +23,15 @@ MonoBehaviour:
     module is solved)
 
 
-    [b]This is a modification to the original modules reuploaded for safely uploading
-    YouTube content: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1279042705]The
-    Jukebox[/url]
+    [b]This is a modification to the original modules reuploaded for safely streaming
+    : [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1279042705]The Jukebox[/url]
 
     [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1279042705]The Festive
     Jukebox[/url]
 
     [/b]
+
+    DO NOT USE THIS MOD IN CONJUNCTION WITH THE SPECIFIED MODS, THEY DO NOT WORK TOGETHER
 
 
     Module IDs: jukebox, festiveJukebox
@@ -46,4 +47,4 @@ MonoBehaviour:
     https://ktane.timwi.de/HTML/The%20Festive%20Jukebox.html'
   version: 1.12
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: e73ae5987f30c40a08ff56094db49496, type: 3}
+  previewImage: {fileID: 0}
